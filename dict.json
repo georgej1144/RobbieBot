@@ -1,1 +1,23 @@
-{"itz":"In the Zone","ss":"Starstruck","mogo":"Mobile Goal","dr4b":"Double reverse 4 bar, a lift","tp":"Turning Point (or tippping point but not really","tip":"Tipping Point","itz2":"Tipping Point","nbn":"Nothing but Net","clawbot":"extremely simple robot, usually with a claw","ri3d":"Robot in 3 days. A \"challenege\" to make a robot within 3 days and reveal it","dt":"drive train","ap":"auton points. awarded for winning/tying auton in a teamwork match","wp":"win points. awarded for winning/tying a teamwork match","sp":"black magic at this point, i'll let josh define this","odom":"a term referring to the positional tracking of a robot. generally using 3 wheels, sometimes 2, and optimally independent of the drive train"}
+{
+	"itz": "In the Zone",
+	"ss": "Starstruck",
+	"mogo": "Mobile Goal",
+	"dr4b": "Double reverse 4 bar, a lift",
+	"tp": "Turning Point (or tippping point but not really",
+	"tip": "Tipping Point",
+	"itz2": "Tipping Point",
+	"nbn": "Nothing but Net",
+	"clawbot": "extremely simple robot, usually with a claw",
+	"ri3d": "Robot in 3 days. A \"challenege\" to make a robot within 3 days and reveal it",
+	"dt": "drive train",
+	"ap": "auton points. awarded for winning/tying auton in a teamwork match",
+	"wp": "win points. awarded for winning/tying a teamwork match",
+	"sp": "black magic at this point, i'll let josh define this",
+	"odom": "a term referring to the positional tracking of a robot. generally using 3 wheels, sometimes 2, and optimally independent of the drive train",
+    "zoo": "90819a/z. competitive central jersey team. now disbanded",
+    "fury": "765. central jersey team. generally starts season weak, ends strong with finalized autons",
+    "east": "750. team from south brunswick hs. usually shotty build quality, similar across teams, but by mid-late season has converged on solid designs",
+    "cherry": "2616. team from Cherry Hill south jersey. usually puts 1 very strong team and ~2 decent teams forward. solid from early season on. unsure what talent will rise after J graduates out",
+    "millburn": "7405. 4 strong teams from early season with 1 usually standing out. usually solid builds and relatively diverse designs",
+    "rev": "you clowns"
+}
