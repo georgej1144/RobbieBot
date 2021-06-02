@@ -2,7 +2,7 @@ const DiscordJS = require('discord.js')
 const fs = require('fs')
 require('dotenv').config()
 
-const guildId = '470027130051362829'	//change to 550046418908348426 when ready to put in RR discord
+const guildId = '550046418908348426' //'470027130051362829'	//change to 550046418908348426 when ready to put in RR discord
 
 var slangDict
 
